@@ -1,5 +1,4 @@
 FROM bitnami/ruby:2.5.9
-MAINTAINER massimo@it20.info
 
 ################## BEGIN INSTALLATION ######################
 
